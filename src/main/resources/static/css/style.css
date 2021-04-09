@@ -1,0 +1,39 @@
+body {
+    background: #fafafa;
+}
+
+.row-with-button:hover {
+    background: #fff;
+}
+
+h4 {
+    margin: 1rem 0;
+}
+
+.page-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background: #2C3E50;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 3.5rem;
+}
+
+.details-link {
+    color: #212529;
+}
+
+.details-link:hover {
+    color: #18BC9C;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.jumbotron {
+    margin: 5rem;
+}
